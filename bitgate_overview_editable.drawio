@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="bitgate_overview" name="Page-1">
-    <mxGraphModel dx="2790" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1672" pageHeight="941" math="0" shadow="0">
+    <mxGraphModel dx="2930" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1672" pageHeight="941" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
         <mxCell id="10" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Expert&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Matrices&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="57.03" width="184.78" x="-51.989999999999995" y="78.13" as="geometry" />
         </mxCell>
-        <mxCell id="12" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Base + Increments&lt;/font&gt;" vertex="1">
-          <mxGeometry height="57.03" width="220" x="213.78" y="78.13" as="geometry" />
+        <mxCell id="12" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Bit-Chunk Decomposition&lt;/font&gt;" vertex="1">
+          <mxGeometry height="57.03" width="286.22" x="184.24" y="77.13" as="geometry" />
         </mxCell>
         <mxCell id="14" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;fontStyle=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;BitInfo&lt;/font&gt;" vertex="1">
           <mxGeometry height="38.02" width="85.31" x="562.72" y="87.63000000000001" as="geometry" />
@@ -296,7 +296,7 @@
           <mxGeometry height="23.76" width="28.44" x="924.63" y="582.2199999999999" as="geometry" />
         </mxCell>
         <mxCell id="177" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Budget&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="28.52" width="75.83" x="992.9000000000001" y="463.27000000000004" as="geometry" />
+          <mxGeometry height="28.52" width="75.83" x="991.9000000000001" y="456.27000000000004" as="geometry" />
         </mxCell>
         <mxCell id="184" parent="1" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;strokeWidth=1.5;" value="" vertex="1">
           <mxGeometry height="236.73" width="104.26" x="1072.94" y="373.27" as="geometry" />
