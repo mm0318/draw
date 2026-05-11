@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="bitgate_overview" name="Page-1">
-    <mxGraphModel dx="2731" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1672" pageHeight="941" math="0" shadow="0">
+    <mxGraphModel dx="2930" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1672" pageHeight="941" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry height="893.47" width="1637.88" x="-1600" y="-940" as="geometry" />
         </mxCell>
         <mxCell id="5" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;strokeWidth=1;fontColor=#ffffff;fontSize=28;fontFamily=Helvetica;align=center;verticalAlign=middle;fontStyle=1;" value="Offline Preparation" vertex="1">
-          <mxGeometry height="44.67" width="350.7" x="186.57" y="36.12" as="geometry" />
+          <mxGeometry height="44.67" width="350.7" x="159.99" y="36.12" as="geometry" />
         </mxCell>
         <mxCell id="6" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;strokeWidth=1;fontColor=#ffffff;fontSize=28;fontFamily=Helvetica;align=center;verticalAlign=middle;fontStyle=1;" value="Runtime Allocation" vertex="1">
           <mxGeometry height="44.67" width="350.7" x="1003.46" y="36.12" as="geometry" />
